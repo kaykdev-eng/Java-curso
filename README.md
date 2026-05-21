@@ -2,7 +2,7 @@
 
 Repositório com meus estudos de Java e Programação Orientada a Objetos.
 
-## Conteúdo estudado
+## Conteúdo estudado - estudando
 - Lógica de programação
 - Estruturas condicionais
 - Estruturas repetitivas
