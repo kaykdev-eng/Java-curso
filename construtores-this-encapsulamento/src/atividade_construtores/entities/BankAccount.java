@@ -49,7 +49,5 @@ public class BankAccount {
                 ", " +
                 "Balance: $ " +
                 String.format("%.2f", getBalance());
-
-
     }
 }

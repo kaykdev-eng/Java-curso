@@ -40,8 +40,6 @@ public class Program {
         bankAccount.withDraw(withdrawValue);
         System.out.printf("Updated account data: %n%s%n",bankAccount);
 
-
-
         sc.close();
     }
 }
