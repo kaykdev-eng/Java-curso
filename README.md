@@ -11,7 +11,11 @@ Repositório com meus estudos de Java e Programação Orientada a Objetos.
 - Classes e Objetos
 - Métodos
 - toString
-- Encapsulamento (em breve)
+- Encapsulamento
+- Construtores
+- Getters e Setters
+- Atributos Private
+- Construtores com sobrecarga
 
 ## Tecnologias
 - Java
