@@ -51,7 +51,7 @@ public class Program {
             sc.nextLine();
 
             Product product = new Product(productName, productPrice);
-            OrderItem orderItem = new OrderItem(productQuantity, productPrice, product);
+            OrderItem orderItem = new OrderItem(productQuantity, product);
             order.addItem(orderItem);
         }
 
