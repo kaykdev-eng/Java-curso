@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Enumeracao-composicao/Enumeracao-composicao.iml" filepath="$PROJECT_DIR$/Enumeracao-composicao/Enumeracao-composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-curso.iml" filepath="$PROJECT_DIR$/.idea/Java-curso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays-listas/arrays-listas.iml" filepath="$PROJECT_DIR$/arrays-listas/arrays-listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construtores-this-encapsulamento/construtores-this-encapsulamento.iml" filepath="$PROJECT_DIR$/construtores-this-encapsulamento/construtores-this-encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-hora/data-hora.iml" filepath="$PROJECT_DIR$/data-hora/data-hora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excecoes/excecoes.iml" filepath="$PROJECT_DIR$/excecoes/excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/files.iml" filepath="$PROJECT_DIR$/files/files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca-polimorfismo/heranca-polimorfismo.iml" filepath="$PROJECT_DIR$/heranca-polimorfismo/heranca-polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro_projeto/primeiro_projeto.iml" filepath="$PROJECT_DIR$/primeiro_projeto/primeiro_projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto/projeto.iml" filepath="$PROJECT_DIR$/projeto/projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segundo_projeto/segundo_projeto.iml" filepath="$PROJECT_DIR$/segundo_projeto/segundo_projeto.iml" />
+    </modules>
+  </component>
+</project>
