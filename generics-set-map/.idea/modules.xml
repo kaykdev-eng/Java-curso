@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/activity-generics/activity-generics.iml" filepath="$PROJECT_DIR$/activity-generics/activity-generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade-set/atividade-set.iml" filepath="$PROJECT_DIR$/atividade-set/atividade-set.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/generics-set-map.iml" filepath="$PROJECT_DIR$/.idea/generics-set-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashCode/hashCode.iml" filepath="$PROJECT_DIR$/hashCode/hashCode.iml" />
     </modules>
   </component>
 </project>
