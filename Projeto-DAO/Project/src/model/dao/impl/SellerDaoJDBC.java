@@ -1,11 +1,10 @@
 package model.dao.impl;
 
-import com.mysql.cj.protocol.Resultset;
 import db.DB;
 import db.DbException;
 import model.dao.SellerDao;
-import model.entites.Department;
-import model.entites.Seller;
+import model.entities.Department;
+import model.entities.Seller;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -71,7 +70,16 @@ public class SellerDaoJDBC implements SellerDao {
 
     @Override
     public void deleteById(Integer id) {
-
+        PreparedStatement st = null;
+        try {
+            st = conn.prepareStatement("DELETE FROM seller WHERE Id = ?");
+            st.setInt(1, id);
+            st.executeUpdate();
+        }catch (SQLException e) {
+            throw new DbException(e.getMessage());
+        }finally {
+            DB.closeStatement(st);
+        }
     }
 
     @Override

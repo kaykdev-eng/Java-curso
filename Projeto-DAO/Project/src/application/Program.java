@@ -1,19 +1,16 @@
 package application;
 
 import model.dao.DaoFactory;
-import model.dao.SellerDao;
-import model.entites.Department;
-import model.entites.Seller;
+import model.dao.DepartmentDao;
+import model.entities.Department;
 
 import java.util.List;
 
 public class Program {
     static void main(String[] args) {
-        SellerDao sellerDao = DaoFactory.createSellerDao();
-        Seller seller = sellerDao.findById(5);
-        seller.setName("Eduarda mozao");
-        sellerDao.update(seller);
-        System.out.println(seller);
+        DepartmentDao departmentDao = DaoFactory.createDepartmentDao();
+        List<Department> dep = departmentDao.findAll();
+        dep.forEach(System.out::println);
 
     }
 }
